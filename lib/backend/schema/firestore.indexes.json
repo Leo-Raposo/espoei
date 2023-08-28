@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "cadastro",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "nomeCompleto",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "display_name",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1015670076791",
+    "project_id": "expoepi-31165",
+    "storage_bucket": "expoepi-31165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015670076791:android:8015a21a4313d54c315d72",
+        "android_client_info": {
+          "package_name": "com.mycompany.expoepi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015670076791-2deptqrctk17ei624nrn7ta59lphpmmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.expoepi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1015670076791-qad523eklh9ljgqmqioqg2rvrfuisbgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_X4pDgpQSNM5gttPEk1lFfiQK8WgrLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015670076791-qad523eklh9ljgqmqioqg2rvrfuisbgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015670076791-enek9fgrfach7jfung8iqtcqc85l1qda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.expoepi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
